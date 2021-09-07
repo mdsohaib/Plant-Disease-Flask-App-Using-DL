@@ -1,7 +1,7 @@
 mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
-email = \"email@com\"\n\
+email = \"https://plant-disease-flask-pianalytix.herokuapp.com\"\n\
 " > ~/.streamlit/credentials.toml
 echo "\
 [server]\n\
