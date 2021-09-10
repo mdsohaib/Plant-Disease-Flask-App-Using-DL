@@ -1,4 +1,4 @@
-<div align="center"> <img src="Screenshots/main.png" width="500" height="250"> </center> </div>
+<div align="center"> <img src="Screenshots/main.png" width="400" height="250"> </center> </div>
 <h3> Link-https://plant-disease-flask-pianalytix.herokuapp.com/</h3>
 <i>
 
